@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.form
+{
+    margin: 50px 400px;
+    padding: 40px 20px;
+    position: relative;
+    background-color: #8c7573;
+    border-radius: 10px;
+}
+h1{
+    margin-top: 10px;
+    text-align: center;
+}
+#submit
+{
+    position: relative;
+    left: 460px;
+}
+#table
+{
+    margin: 50px 260px;
+    width: 70%;
+
+}
